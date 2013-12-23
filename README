@@ -1,0 +1,6 @@
+What the app does:
+1. Takes in a search query and fetches search results from Mp3 Skull.
+2. Parses the HTML and seperates the Title, Download Link and Song details.
+
+What needs to be done:
+1. Create a custom array adapter and fill it with song details.
